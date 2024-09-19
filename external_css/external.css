@@ -1,0 +1,15 @@
+body{
+    background-color: yellow;
+}
+.heading{
+    color: blue;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 50px;
+    text-align: center;
+}
+.para{
+    color: brown;
+    font-style: italic;
+    font-size: 20px;
+    border: 3px dotted green;
+}

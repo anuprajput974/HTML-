@@ -1,0 +1,39 @@
+body{
+    background-color:white;
+}
+/*universal selector*/
+*{
+    margin:0;
+    padding:0;
+}
+/*element selector*/
+h1{
+    font-size:30px;
+    color:yellow;
+    border:3px dotted darkblue;
+    background-color: green;
+}
+p{
+    font-size: 15px;
+    background-color: darkgoldenrod;
+    border:10px solid purple;
+
+}
+/* class selector*/
+.para{
+    color:brown;
+
+
+}
+/* id selector*/
+#id1{
+    color:blue;
+    background:grey;
+}
+/* selectors list */
+.class1,class2,class3{
+    font-size: 15px;
+    background-color: darkgoldenrod;
+    border:10px solid purple;
+
+}

@@ -1,0 +1,23 @@
+/* descendent selection */
+div p{
+    color:red;
+}
+/* child selection */
+h1>p{
+    color:blue;
+}
+
+section+p{
+    color:green;
+}
+
+section ~ p{
+    color:black;
+}
+
+[target="_blank"]{
+    color: green;
+}
+[alt~="modi.png"]{
+    background-color: black;
+}
